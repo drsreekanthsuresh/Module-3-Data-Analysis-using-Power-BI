@@ -7,6 +7,7 @@ Table of Contents:
 5.	COVID-19 Dashboard Files (.pbix)
 6.	Summary Report
 7.	Conclusion
+   
 Overview
 This Power BI project provides a comprehensive analysis of COVID-19 data across multiple levels: worldwide, country-wise, and specifically for the USA. The dashboard uses a variety of visualizations to present key metrics, trends, and regional differences. The goal is to facilitate informed decision-making and effective response strategies by offering a detailed view of the pandemic’s progression and impact.
 Key Features
